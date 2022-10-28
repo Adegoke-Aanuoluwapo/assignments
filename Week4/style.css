@@ -1,0 +1,48 @@
+*{
+    margin: 0px; padding: 0; box-sizing: border-box;
+}
+body{
+    background-color: ivory;
+}
+.body{
+    padding: 100px; display:flex; 
+    justify-content: center; text-align: center;
+     height: 100vh;
+}
+.body .SEDANS{
+    padding: 75px; background-color: hsl(31, 77%, 52%) ;
+     
+}
+.body .SEDANS h3{
+    padding-bottom: 20px; padding-top: 50px;
+    color: white; font-style:  times;
+    text-align: center;
+}
+.body .SUVS{
+    padding:50px; background-color: hsl(184, 100%, 22%)
+}
+.body .SUVS h3{
+    padding-bottom: 20px; padding-top: 
+    50px;color: white; font-style:  times;
+    text-align: center; 
+}
+
+
+.body .LUXURY{
+    padding:50px; background-color: hsl(179, 100%, 13%); 
+}
+.btn {
+    font-weight: 500; padding :10px; margin-top: 150px; border-radius: 20px
+}
+.body .LUXURY h3{
+    padding-bottom: 50px; padding-top: 50px;color: white; font-style:  times;
+}
+.par{
+    color: white; margin: 10px ;font-size: 15px;
+}
+.grid{
+    margin-left: 100px; font-weight: 500; padding: 10px; 
+    border-radius: 20px; background-color: khaki;
+    background: lavenderblush;
+}
+    
